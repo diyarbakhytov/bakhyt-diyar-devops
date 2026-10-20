@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    image: bakhyt-diyar-devops
+    container_name: bakhyt-diyar-container
+    environment:
+      STUDENT_NAME: Diyar
+      STUDENT_SURNAME: Bakhyt
+      STUDENT_GROUP: IT2-2301
+      STUDENT_ID: "38310"
