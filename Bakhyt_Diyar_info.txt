@@ -1,0 +1,5 @@
+Name: Diyar
+Surname: Bakhyt
+Group: IT2-2301
+Student ID: 38310
+Course: DevOps
